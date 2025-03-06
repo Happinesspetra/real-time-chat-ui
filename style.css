@@ -23,8 +23,8 @@ body {
 }
 
 footer {
-    background: #000
-    margin-bottom: -700px;
+    background: blue;
+    margin-bottom: -720px;
     margin-left: -400px;
     padding-top: 20px; /* Adjust as needed */
     border-top: 1px solid #444; /* Optional, for a visual separator */
