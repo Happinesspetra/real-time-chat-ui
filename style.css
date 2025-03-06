@@ -195,3 +195,20 @@ body {
 .modal-content button:hover {
     background: #e766e7;
 }
+
+/* Center the chat container in mobile view */
+@media (max-width: 767px) {
+    .chat-container {
+        margin: auto;
+        max-width: 90%;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+/* Ensure clear button is clickable in laptop view */
+.clear-chat {
+    z-index: 1;
+}
