@@ -23,7 +23,7 @@ body {
 }
 
 footer {
-    margin-bottom: -600px;
+    margin-bottom: 600px;
     margin-left: -400px;
     padding-top: 20px; /* Adjust as needed */
     border-top: 1px solid #444; /* Optional, for a visual separator */
